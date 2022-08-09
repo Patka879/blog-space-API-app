@@ -9,6 +9,6 @@ fetch("https://apis.scrimba.com/jsonplaceholder/posts")
                 <p>${post.body}</p>
             `
         }
-        document.getElementById('posts').innerHTML = html
+        document.getElementById('blog-list').innerHTML = html
     })
 
