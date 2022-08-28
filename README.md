@@ -1,22 +1,25 @@
-# BLOG-SPACE
-##### Blog Space App based on API.
+# BLOG SPACE
+##### Simple blog-space desktop
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Inspiration](#Inspitation)
 ## General info
-Blog Space that allows us to add, delete and edit posts on our web.
+Project created in vanilla JavaScript. It's a basic desktop for a blog where You can add, edit and delete posts with titles. It's created using an API.
 ## Technologies
 Project is created with:
-* REST API
 * JavaScript
+* HTML
+* CSS
+* REST API
 ## Setup 
 To start this project locally:
-```
-$ npm ci
-```
+
 Clone the repository:
 ```
-$ git clone git@github.com:Patka879/blog-space-API-app
+git clone git@github.com:Patka879/blog-space-API-app.git
 ```
-Run the project: open html folder to acces the app
+Go to the directory of the project and open HTML file in the browser.
+## Inspiration
+This project is a part of Frontend Developer Path training on scrimba platform.
